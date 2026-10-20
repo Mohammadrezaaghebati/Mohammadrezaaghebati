@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohammadrezaaghebati
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on web development 
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning SQL 
+- 💞️ I’m looking to collaborate on datas
 - 📫 email me pubmreza@gmail.com 
 
 <!---
